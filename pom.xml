@@ -2,10 +2,10 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
+
     <!-- Project from https://start.vaadin.com/project/2dd3f24a-2d5e-49eb-ab0a-5f1e1d7ce6ba -->
     <groupId>ch.martinelli.demo.vaadin</groupId>
-    <artifactId>vaadindownload</artifactId>
-    <name>vaadindownload</name>
+    <artifactId>vaadin-download</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
